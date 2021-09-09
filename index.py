@@ -15,7 +15,7 @@ class Application:
         self.bt2=Button(StartFrame,text="Decrypt",height=20,width=38,bg="blue",font="Bold")
         self.bt2.place(x=340,y=140)
         self.bt3=Button(StartFrame,text="Hack",height=20,width=38,bg="red",font="Bold")
-        self.bt3.place(x=685,y=140)
+        self.bt3.place(x=680,y=140)
 if __name__=='__main__':
     root = Tk()    
 
